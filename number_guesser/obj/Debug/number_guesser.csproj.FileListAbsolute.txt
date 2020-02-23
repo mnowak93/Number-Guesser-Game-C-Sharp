@@ -1,0 +1,6 @@
+D:\c#\number_guesser\number_guesser\bin\Debug\number_guesser.exe.config
+D:\c#\number_guesser\number_guesser\bin\Debug\number_guesser.exe
+D:\c#\number_guesser\number_guesser\bin\Debug\number_guesser.pdb
+D:\c#\number_guesser\number_guesser\obj\Debug\number_guesser.csprojAssemblyReference.cache
+D:\c#\number_guesser\number_guesser\obj\Debug\number_guesser.exe
+D:\c#\number_guesser\number_guesser\obj\Debug\number_guesser.pdb
